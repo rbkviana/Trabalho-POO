@@ -160,7 +160,7 @@ As capturas de tela de cada cenário estão na **seção 4 do relatório técnic
 
 ## Modelagem
 
-O diagrama de classes está em [`docs/diagrama-classes.png`](docs/diagrama-classes.png).
+Os diagramas de classes estão em [`docs/diagrama-classes.png`](docs/diagrama-classes.png) e [`docs/diagrama-classes-2.png`](docs/diagrama-classes-2.png).
 
 - **Abstração, herança e polimorfismo:** `Despesa` é abstrata e define `calcularRateio()`. `DespesaFixa` e `DespesaPorPessoa` sobrescrevem o método, e o restante do sistema usa referências do tipo `Despesa`.
 - **Encapsulamento:** atributos privados, listas retornadas de forma imutável por `Planejamento` e `Despesa`.
