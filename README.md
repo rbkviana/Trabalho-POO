@@ -172,8 +172,14 @@ O diagrama de classes está em [`docs/diagrama-classes.png`](docs/diagrama-class
 
 ## Objetivo extra (simulador de alternativas)
 
-_Não realizado._ <!-- Se a equipe implementar, descreva aqui o algoritmo, as entradas e os testes. -->
+_Não realizado._ 
 
 ## Uso de IA e fontes
 
-_Descreva aqui, em poucas linhas, se e como a equipe usou IA, e que a equipe revisou e compreendeu o código. Liste também as fontes externas usadas._
+
+**Uso de IA:** a equipe utilizou ferramentas de IA (Claude) como apoio em partes do trabalho, como a elaboração do README e a revisão da organização da documentação. As decisões de modelagem, a implementação, a execução dos testes e a análise dos resultados foram conduzidas pela equipe, que revisou e compreendeu o código do projeto.
+
+**Fontes externas:**
+- Proposta de atividade da disciplina de Programação Orientada a Objetos, 2026.
+- ORACLE. *The Java Tutorials: Creating a GUI With Swing*. https://docs.oracle.com/javase/tutorial/uiswing/
+- ORACLE. *BigDecimal (Java SE API Specification)*. https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/math/BigDecimal.html
