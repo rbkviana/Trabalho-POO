@@ -41,8 +41,8 @@ javac -version
 ## Instalação
 
 ```bash
-git clone <LINK-DO-REPOSITORIO>
-cd <NOME-DA-PASTA-DO-PROJETO>
+git clone https://github.com/rbkviana/cabenobolso.git
+   cd cabenobolso
 ```
 
 ## Organização das pastas
