@@ -42,7 +42,7 @@ javac -version
 
 ```bash
 git clone https://github.com/rbkviana/cabenobolso.git
-   cd cabenobolso
+cd cabenobolso
 ```
 
 ## Organização das pastas
