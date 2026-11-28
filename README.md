@@ -76,6 +76,7 @@ cd cabenobolso
 │   └── planejamento.dat             # arquivo de exemplo (caso de referência)
 ├── docs/
 │   ├── diagrama-classes.png         # UML atualizado
+│   ├── diagrama-classes-2.png       # UML: controlador, telas e Main
 │   └── evidencias/                  # capturas de tela dos testes
 └── README.md
 ```
@@ -147,7 +148,7 @@ Cadastre os dados abaixo.
 
 ### Testes adicionais
 
-As capturas de tela de cada cenário estão na **seção 4 do relatório técnico (PDF)**. Se preferir, copie-as para `docs/evidencias/` com os nomes abaixo.
+As capturas de tela de cada cenário estão em `docs/evidencias/` e também na **seção 4 do relatório técnico (PDF)**.
 
 | # | Cenário | Passos | Resultado esperado | Resultado obtido | Evidência |
 |---|---|---|---|---|---|
